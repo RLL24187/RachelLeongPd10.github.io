@@ -22,6 +22,10 @@ body, html {
 	height: 200px;
 	width: 200px;
 }
+#botbigbox {
+	height: 200px;
+	width: 580px;
+}	
 #bigbox {
 	width: 580px;
 	height: 580px;
